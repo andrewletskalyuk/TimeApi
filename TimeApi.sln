@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeApi", "TimeApi.csproj", "{FB420C43-1922-4B97-9582-DDDC2C02730D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB420C43-1922-4B97-9582-DDDC2C02730D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB420C43-1922-4B97-9582-DDDC2C02730D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB420C43-1922-4B97-9582-DDDC2C02730D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB420C43-1922-4B97-9582-DDDC2C02730D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70595ECC-CE39-4D5C-B5EB-75792B2415B1}
+	EndGlobalSection
+EndGlobal
